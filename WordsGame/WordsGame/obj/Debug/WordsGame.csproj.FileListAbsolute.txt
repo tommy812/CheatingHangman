@@ -1,0 +1,6 @@
+/Users/tommy/Documents/scuola /uni/year 3/tri1/ai/assignemnt/WordsGame/WordsGame/bin/Debug/WordsGame.exe
+/Users/tommy/Documents/scuola /uni/year 3/tri1/ai/assignemnt/WordsGame/WordsGame/bin/Debug/WordsGame.pdb
+/Users/tommy/Documents/scuola /uni/year 3/tri1/ai/assignemnt/WordsGame/WordsGame/obj/Debug/WordsGame.csproj.AssemblyReference.cache
+/Users/tommy/Documents/scuola /uni/year 3/tri1/ai/assignemnt/WordsGame/WordsGame/obj/Debug/WordsGame.csproj.CoreCompileInputs.cache
+/Users/tommy/Documents/scuola /uni/year 3/tri1/ai/assignemnt/WordsGame/WordsGame/obj/Debug/WordsGame.exe
+/Users/tommy/Documents/scuola /uni/year 3/tri1/ai/assignemnt/WordsGame/WordsGame/obj/Debug/WordsGame.pdb
