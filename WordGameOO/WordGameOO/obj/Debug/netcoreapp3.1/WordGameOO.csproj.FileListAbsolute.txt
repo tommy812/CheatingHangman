@@ -1,0 +1,13 @@
+/Users/tommy/Documents/scuola /uni/year 3/tri1/ai/assignment/WordGameOO/WordGameOO/obj/Debug/netcoreapp3.1/WordGameOO.csproj.AssemblyReference.cache
+/Users/tommy/Documents/scuola /uni/year 3/tri1/ai/assignment/WordGameOO/WordGameOO/obj/Debug/netcoreapp3.1/WordGameOO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tommy/Documents/scuola /uni/year 3/tri1/ai/assignment/WordGameOO/WordGameOO/obj/Debug/netcoreapp3.1/WordGameOO.AssemblyInfoInputs.cache
+/Users/tommy/Documents/scuola /uni/year 3/tri1/ai/assignment/WordGameOO/WordGameOO/obj/Debug/netcoreapp3.1/WordGameOO.AssemblyInfo.cs
+/Users/tommy/Documents/scuola /uni/year 3/tri1/ai/assignment/WordGameOO/WordGameOO/obj/Debug/netcoreapp3.1/WordGameOO.csproj.CoreCompileInputs.cache
+/Users/tommy/Documents/scuola /uni/year 3/tri1/ai/assignment/WordGameOO/WordGameOO/bin/Debug/netcoreapp3.1/WordGameOO.deps.json
+/Users/tommy/Documents/scuola /uni/year 3/tri1/ai/assignment/WordGameOO/WordGameOO/bin/Debug/netcoreapp3.1/WordGameOO.runtimeconfig.json
+/Users/tommy/Documents/scuola /uni/year 3/tri1/ai/assignment/WordGameOO/WordGameOO/bin/Debug/netcoreapp3.1/WordGameOO.runtimeconfig.dev.json
+/Users/tommy/Documents/scuola /uni/year 3/tri1/ai/assignment/WordGameOO/WordGameOO/bin/Debug/netcoreapp3.1/WordGameOO.dll
+/Users/tommy/Documents/scuola /uni/year 3/tri1/ai/assignment/WordGameOO/WordGameOO/bin/Debug/netcoreapp3.1/WordGameOO.pdb
+/Users/tommy/Documents/scuola /uni/year 3/tri1/ai/assignment/WordGameOO/WordGameOO/obj/Debug/netcoreapp3.1/WordGameOO.dll
+/Users/tommy/Documents/scuola /uni/year 3/tri1/ai/assignment/WordGameOO/WordGameOO/obj/Debug/netcoreapp3.1/WordGameOO.pdb
+/Users/tommy/Documents/scuola /uni/year 3/tri1/ai/assignment/WordGameOO/WordGameOO/obj/Debug/netcoreapp3.1/WordGameOO.genruntimeconfig.cache
