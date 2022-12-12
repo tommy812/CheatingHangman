@@ -56,26 +56,27 @@ namespace WordGameOO
 
         private static void HardMode()
         {
+            
             exit = FALSE;
             WordFamily families = new WordFamily();
+     
+            
             Letter letter = new Letter();
+            families.Clear(families);
             wordLenght = families.GetLenght();
             string[] dictionary = families.GetWords(wordLenght);
-
+            Console.WriteLine("Words: {0}", dictionary.Length);
+            
             int count = 0;
-
-
-
 
             lifes = GetLifes(wordLenght);
             char input;
+
             families.emptyWord = families.GetEmptyWord(wordLenght, families);
 
             do
             {
-                Print("Lifes left: " + lifes.ToString());
-                letter.PrintUsedLetters();
-                PrintEmptyWord(families.emptyWord);
+                
                 do
                 {// repeat until input is valid.
                     input = letter.GetLetter();
@@ -83,12 +84,10 @@ namespace WordGameOO
                 lifes--;
 
                 dictionary = families.GetFamilyHard(input,dictionary,families);
-
-            
-
                 Print("\n\nLifes left: " + lifes.ToString());
                 letter.PrintUsedLetters();
                 PrintEmptyWord(families.emptyWord);
+
                 if (lifes == 0)
                 {
                     Console.Clear();
@@ -114,6 +113,7 @@ namespace WordGameOO
         {
             exit = FALSE;
             WordFamily families = new WordFamily();
+            families.wordFamilies.Clear();
             Letter letter = new Letter();
             wordLenght = families.GetLenght();
             string[] dictionary = families.GetWords(wordLenght);
